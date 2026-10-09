@@ -1,7 +1,7 @@
 {
   "metadata": {
     "title": "NovaFactory AI 시장·경쟁사 인텔리전스 데일리 리포트",
-    "generated_at": "2026-10-08 05:07:44",
+    "generated_at": "2026-10-09 05:10:35",
     "target_company": "NovaFactory AI",
     "business_area": "제조업 AI 비전 품질검사",
     "total_collected": 438,
@@ -51,23 +51,23 @@
   "category_stats": {
     "total_cleaned_distribution": {
       "market": 192,
-      "technology": 115,
+      "technology": 112,
+      "funding": 52,
       "policy": 52,
-      "funding": 48,
-      "competitor": 31
+      "competitor": 30
     },
     "recommended_distribution": {
-      "market": 24,
-      "technology": 2,
+      "market": 25,
       "policy": 2,
       "competitor": 1,
+      "technology": 1,
       "funding": 1
     }
   },
   "top_10": [
     {
-      "article_id": "CL-0193",
-      "category": "technology",
+      "article_id": "CL-0104",
+      "category": "market",
       "title": "디엑스알, AI·로봇 기능 기반 비정형 공정 품질검사까지 자동화 [서울AI허브 2027] - IT조선",
       "date": "2026-10-08",
       "content": "디엑스알, AI·로봇 기능 기반 비정형 공정 품질검사까지 자동화 [서울AI허브 2027] IT조선",
@@ -75,18 +75,18 @@
       "source_url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5xVk11Y1ByTkRLQVRfZWEtazdSZ0lqaE9IWVY3ZzVWT19abkh2QVlhSnRhS1FlX1BYcllEbmQ5eVRUano2TVplTUp1RFNERlFKaTUxNzM3UzdoMzR3UVRkS2dXVmpMRUdDSElPeGhzRS0?oc=5",
       "source_name": "IT조선",
       "company_tag": NaN,
-      "keywords": "머신비전|품질검사|불량탐지",
-      "collected_at": "2026-10-08T05:07:40.558006+00:00",
+      "keywords": "제조|AX|공정|자동화",
+      "collected_at": "2026-10-09T05:10:31.190916+00:00",
       "has_null": false,
       "is_duplicate_seed": false,
       "data_origin": "live_crawl",
       "relevance_score": 99,
-      "recommendation_reason": "[기술 개발] 핵심 기술 키워드(AI, 품질검사, 자동화) 일치 (태그: 기반, 품질, ai, AI)",
+      "recommendation_reason": "[시장 전략] 핵심 기술 키워드(AI, 품질검사, 자동화) 일치 (태그: 기반, 품질, ai, AI)",
       "matched_tags": "기반|품질|ai|AI|품질검사|자동화",
       "rank": 1
     },
     {
-      "article_id": "CL-0002",
+      "article_id": "CL-0005",
       "category": "market",
       "title": "강원 제조기업 80곳 ‘AI 스마트공장’ 전환 속도 - 강원도민일보",
       "date": "2026-10-07",
@@ -96,7 +96,7 @@
       "source_name": "강원도민일보",
       "company_tag": NaN,
       "keywords": "스마트팩토리|AI|제조",
-      "collected_at": "2026-10-08T05:07:38.902028+00:00",
+      "collected_at": "2026-10-09T05:10:30.415882+00:00",
       "has_null": false,
       "is_duplicate_seed": false,
       "data_origin": "live_crawl",
@@ -106,7 +106,7 @@
       "rank": 2
     },
     {
-      "article_id": "CL-0131",
+      "article_id": "CL-0137",
       "category": "market",
       "title": "경남도, ‘제조 AX’ 속도 낸다… 올해 AI 스마트공장 281개 추가 구축 - 기계신문",
       "date": "2026-03-17",
@@ -116,7 +116,7 @@
       "source_name": "기계신문",
       "company_tag": NaN,
       "keywords": "제조|AX|공정|자동화",
-      "collected_at": "2026-10-08T05:07:39.836519+00:00",
+      "collected_at": "2026-10-09T05:10:31.190916+00:00",
       "has_null": false,
       "is_duplicate_seed": false,
       "data_origin": "live_crawl",
@@ -136,7 +136,7 @@
       "source_name": "헬로티",
       "company_tag": NaN,
       "keywords": "머신비전|비전검사|솔루션|경쟁사",
-      "collected_at": "2026-10-08T05:07:44.543949+00:00",
+      "collected_at": "2026-10-09T05:10:34.993214+00:00",
       "has_null": false,
       "is_duplicate_seed": false,
       "data_origin": "live_crawl",
@@ -146,7 +146,7 @@
       "rank": 4
     },
     {
-      "article_id": "CL-0200",
+      "article_id": "CL-0198",
       "category": "technology",
       "title": "임픽스, 산업용 AI 머신비전 개발…\"쉽고 빠른 품질검사 가능\" - 한국경제",
       "date": "2023-11-09",
@@ -156,7 +156,7 @@
       "source_name": "한국경제",
       "company_tag": NaN,
       "keywords": "머신비전|품질검사|불량탐지",
-      "collected_at": "2026-10-08T05:07:40.558006+00:00",
+      "collected_at": "2026-10-09T05:10:31.783606+00:00",
       "has_null": false,
       "is_duplicate_seed": false,
       "data_origin": "live_crawl",
@@ -166,7 +166,7 @@
       "rank": 5
     },
     {
-      "article_id": "CL-0007",
+      "article_id": "CL-0006",
       "category": "market",
       "title": "피지컬AI 속도 내는 정부…中企는 ‘자동화 기초체력’ 취약 - 매일일보",
       "date": "2026-10-06",
@@ -176,7 +176,7 @@
       "source_name": "매일일보",
       "company_tag": NaN,
       "keywords": "스마트팩토리|AI|제조",
-      "collected_at": "2026-10-08T05:07:38.902028+00:00",
+      "collected_at": "2026-10-09T05:10:30.415882+00:00",
       "has_null": false,
       "is_duplicate_seed": false,
       "data_origin": "live_crawl",
@@ -186,7 +186,7 @@
       "rank": 6
     },
     {
-      "article_id": "CL-0105",
+      "article_id": "CL-0109",
       "category": "market",
       "title": "[제조업 AX] 울산 제조 AX, 공장마다 ‘작은 성공’을 연결하라 – 자동차·조선·화학 중소기업이 실행할 수 있는 산업 AX 액션플랜 - AI 매터스",
       "date": "2026-10-06",
@@ -196,7 +196,7 @@
       "source_name": "AI 매터스",
       "company_tag": NaN,
       "keywords": "제조|AX|공정|자동화",
-      "collected_at": "2026-10-08T05:07:39.836519+00:00",
+      "collected_at": "2026-10-09T05:10:31.190916+00:00",
       "has_null": false,
       "is_duplicate_seed": false,
       "data_origin": "live_crawl",
@@ -216,7 +216,7 @@
       "source_name": "전라매일",
       "company_tag": NaN,
       "keywords": "스마트팩토리|AI|제조",
-      "collected_at": "2026-10-08T05:07:38.902028+00:00",
+      "collected_at": "2026-10-09T05:10:30.415882+00:00",
       "has_null": false,
       "is_duplicate_seed": false,
       "data_origin": "live_crawl",
@@ -236,7 +236,7 @@
       "source_name": "edaily.co.kr",
       "company_tag": NaN,
       "keywords": "스마트팩토리|AI|제조",
-      "collected_at": "2026-10-08T05:07:38.902028+00:00",
+      "collected_at": "2026-10-09T05:10:30.415882+00:00",
       "has_null": false,
       "is_duplicate_seed": false,
       "data_origin": "live_crawl",
@@ -246,7 +246,7 @@
       "rank": 9
     },
     {
-      "article_id": "CL-0035",
+      "article_id": "CL-0033",
       "category": "market",
       "title": "10년간 스마트공장 도입 노력에도 전국 AI 자율제조 고도화 2% 불과 - 경남신문",
       "date": "2026-09-27",
@@ -256,7 +256,7 @@
       "source_name": "경남신문",
       "company_tag": NaN,
       "keywords": "스마트팩토리|AI|제조",
-      "collected_at": "2026-10-08T05:07:38.902028+00:00",
+      "collected_at": "2026-10-09T05:10:30.415882+00:00",
       "has_null": false,
       "is_duplicate_seed": false,
       "data_origin": "live_crawl",
@@ -268,8 +268,8 @@
   ],
   "recommendations": [
     {
-      "article_id": "CL-0193",
-      "category": "technology",
+      "article_id": "CL-0104",
+      "category": "market",
       "title": "디엑스알, AI·로봇 기능 기반 비정형 공정 품질검사까지 자동화 [서울AI허브 2027] - IT조선",
       "date": "2026-10-08",
       "content": "디엑스알, AI·로봇 기능 기반 비정형 공정 품질검사까지 자동화 [서울AI허브 2027] IT조선",
@@ -277,18 +277,18 @@
       "source_url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5xVk11Y1ByTkRLQVRfZWEtazdSZ0lqaE9IWVY3ZzVWT19abkh2QVlhSnRhS1FlX1BYcllEbmQ5eVRUano2TVplTUp1RFNERlFKaTUxNzM3UzdoMzR3UVRkS2dXVmpMRUdDSElPeGhzRS0?oc=5",
       "source_name": "IT조선",
       "company_tag": NaN,
-      "keywords": "머신비전|품질검사|불량탐지",
-      "collected_at": "2026-10-08T05:07:40.558006+00:00",
+      "keywords": "제조|AX|공정|자동화",
+      "collected_at": "2026-10-09T05:10:31.190916+00:00",
       "has_null": false,
       "is_duplicate_seed": false,
       "data_origin": "live_crawl",
       "relevance_score": 99,
-      "recommendation_reason": "[기술 개발] 핵심 기술 키워드(AI, 품질검사, 자동화) 일치 (태그: 기반, 품질, ai, AI)",
+      "recommendation_reason": "[시장 전략] 핵심 기술 키워드(AI, 품질검사, 자동화) 일치 (태그: 기반, 품질, ai, AI)",
       "matched_tags": "기반|품질|ai|AI|품질검사|자동화",
       "rank": 1
     },
     {
-      "article_id": "CL-0002",
+      "article_id": "CL-0005",
       "category": "market",
       "title": "강원 제조기업 80곳 ‘AI 스마트공장’ 전환 속도 - 강원도민일보",
       "date": "2026-10-07",
@@ -298,7 +298,7 @@
       "source_name": "강원도민일보",
       "company_tag": NaN,
       "keywords": "스마트팩토리|AI|제조",
-      "collected_at": "2026-10-08T05:07:38.902028+00:00",
+      "collected_at": "2026-10-09T05:10:30.415882+00:00",
       "has_null": false,
       "is_duplicate_seed": false,
       "data_origin": "live_crawl",
@@ -308,7 +308,7 @@
       "rank": 2
     },
     {
-      "article_id": "CL-0131",
+      "article_id": "CL-0137",
       "category": "market",
       "title": "경남도, ‘제조 AX’ 속도 낸다… 올해 AI 스마트공장 281개 추가 구축 - 기계신문",
       "date": "2026-03-17",
@@ -318,7 +318,7 @@
       "source_name": "기계신문",
       "company_tag": NaN,
       "keywords": "제조|AX|공정|자동화",
-      "collected_at": "2026-10-08T05:07:39.836519+00:00",
+      "collected_at": "2026-10-09T05:10:31.190916+00:00",
       "has_null": false,
       "is_duplicate_seed": false,
       "data_origin": "live_crawl",
@@ -338,7 +338,7 @@
       "source_name": "헬로티",
       "company_tag": NaN,
       "keywords": "머신비전|비전검사|솔루션|경쟁사",
-      "collected_at": "2026-10-08T05:07:44.543949+00:00",
+      "collected_at": "2026-10-09T05:10:34.993214+00:00",
       "has_null": false,
       "is_duplicate_seed": false,
       "data_origin": "live_crawl",
@@ -348,7 +348,7 @@
       "rank": 4
     },
     {
-      "article_id": "CL-0200",
+      "article_id": "CL-0198",
       "category": "technology",
       "title": "임픽스, 산업용 AI 머신비전 개발…\"쉽고 빠른 품질검사 가능\" - 한국경제",
       "date": "2023-11-09",
@@ -358,7 +358,7 @@
       "source_name": "한국경제",
       "company_tag": NaN,
       "keywords": "머신비전|품질검사|불량탐지",
-      "collected_at": "2026-10-08T05:07:40.558006+00:00",
+      "collected_at": "2026-10-09T05:10:31.783606+00:00",
       "has_null": false,
       "is_duplicate_seed": false,
       "data_origin": "live_crawl",
@@ -368,7 +368,7 @@
       "rank": 5
     },
     {
-      "article_id": "CL-0007",
+      "article_id": "CL-0006",
       "category": "market",
       "title": "피지컬AI 속도 내는 정부…中企는 ‘자동화 기초체력’ 취약 - 매일일보",
       "date": "2026-10-06",
@@ -378,7 +378,7 @@
       "source_name": "매일일보",
       "company_tag": NaN,
       "keywords": "스마트팩토리|AI|제조",
-      "collected_at": "2026-10-08T05:07:38.902028+00:00",
+      "collected_at": "2026-10-09T05:10:30.415882+00:00",
       "has_null": false,
       "is_duplicate_seed": false,
       "data_origin": "live_crawl",
@@ -388,7 +388,7 @@
       "rank": 6
     },
     {
-      "article_id": "CL-0105",
+      "article_id": "CL-0109",
       "category": "market",
       "title": "[제조업 AX] 울산 제조 AX, 공장마다 ‘작은 성공’을 연결하라 – 자동차·조선·화학 중소기업이 실행할 수 있는 산업 AX 액션플랜 - AI 매터스",
       "date": "2026-10-06",
@@ -398,7 +398,7 @@
       "source_name": "AI 매터스",
       "company_tag": NaN,
       "keywords": "제조|AX|공정|자동화",
-      "collected_at": "2026-10-08T05:07:39.836519+00:00",
+      "collected_at": "2026-10-09T05:10:31.190916+00:00",
       "has_null": false,
       "is_duplicate_seed": false,
       "data_origin": "live_crawl",
@@ -418,7 +418,7 @@
       "source_name": "전라매일",
       "company_tag": NaN,
       "keywords": "스마트팩토리|AI|제조",
-      "collected_at": "2026-10-08T05:07:38.902028+00:00",
+      "collected_at": "2026-10-09T05:10:30.415882+00:00",
       "has_null": false,
       "is_duplicate_seed": false,
       "data_origin": "live_crawl",
@@ -438,7 +438,7 @@
       "source_name": "edaily.co.kr",
       "company_tag": NaN,
       "keywords": "스마트팩토리|AI|제조",
-      "collected_at": "2026-10-08T05:07:38.902028+00:00",
+      "collected_at": "2026-10-09T05:10:30.415882+00:00",
       "has_null": false,
       "is_duplicate_seed": false,
       "data_origin": "live_crawl",
@@ -448,7 +448,7 @@
       "rank": 9
     },
     {
-      "article_id": "CL-0035",
+      "article_id": "CL-0033",
       "category": "market",
       "title": "10년간 스마트공장 도입 노력에도 전국 AI 자율제조 고도화 2% 불과 - 경남신문",
       "date": "2026-09-27",
@@ -458,7 +458,7 @@
       "source_name": "경남신문",
       "company_tag": NaN,
       "keywords": "스마트팩토리|AI|제조",
-      "collected_at": "2026-10-08T05:07:38.902028+00:00",
+      "collected_at": "2026-10-09T05:10:30.415882+00:00",
       "has_null": false,
       "is_duplicate_seed": false,
       "data_origin": "live_crawl",
@@ -468,7 +468,7 @@
       "rank": 10
     },
     {
-      "article_id": "CL-0075",
+      "article_id": "CL-0079",
       "category": "market",
       "title": "AI가 주문부터 검사까지…제조업 혁신 이끄는 LS일렉 스마트공장 - edaily.co.kr",
       "date": "2026-09-22",
@@ -478,7 +478,7 @@
       "source_name": "edaily.co.kr",
       "company_tag": NaN,
       "keywords": "스마트팩토리|AI|제조",
-      "collected_at": "2026-10-08T05:07:38.902028+00:00",
+      "collected_at": "2026-10-09T05:10:30.415882+00:00",
       "has_null": false,
       "is_duplicate_seed": false,
       "data_origin": "live_crawl",
@@ -488,7 +488,7 @@
       "rank": 11
     },
     {
-      "article_id": "CL-0130",
+      "article_id": "CL-0138",
       "category": "market",
       "title": "AI가 주문부터 검사까지…제조업 혁신 이끄는 LS일렉 스마트공장 - 마켓인",
       "date": "2026-09-21",
@@ -498,7 +498,7 @@
       "source_name": "마켓인",
       "company_tag": NaN,
       "keywords": "제조|AX|공정|자동화",
-      "collected_at": "2026-10-08T05:07:39.836519+00:00",
+      "collected_at": "2026-10-09T05:10:31.190916+00:00",
       "has_null": false,
       "is_duplicate_seed": false,
       "data_origin": "live_crawl",
@@ -508,7 +508,7 @@
       "rank": 12
     },
     {
-      "article_id": "CL-0061",
+      "article_id": "CL-0066",
       "category": "market",
       "title": "부산 스마트공장, 시스템 구축 넘어 제조AI로 전환… - 중도일보",
       "date": "2026-09-19",
@@ -518,7 +518,7 @@
       "source_name": "중도일보",
       "company_tag": NaN,
       "keywords": "스마트팩토리|AI|제조",
-      "collected_at": "2026-10-08T05:07:38.902028+00:00",
+      "collected_at": "2026-10-09T05:10:30.415882+00:00",
       "has_null": false,
       "is_duplicate_seed": false,
       "data_origin": "live_crawl",
@@ -528,7 +528,7 @@
       "rank": 13
     },
     {
-      "article_id": "CL-0088",
+      "article_id": "CL-0092",
       "category": "market",
       "title": "부산테크노파크, 스마트공장 넘어 ‘제조AI·자율형공장’ 전환 지원 강화 - 이뉴스투데이",
       "date": "2026-09-18",
@@ -538,7 +538,7 @@
       "source_name": "이뉴스투데이",
       "company_tag": NaN,
       "keywords": "스마트팩토리|AI|제조",
-      "collected_at": "2026-10-08T05:07:38.902028+00:00",
+      "collected_at": "2026-10-09T05:10:30.415882+00:00",
       "has_null": false,
       "is_duplicate_seed": false,
       "data_origin": "live_crawl",
@@ -548,7 +548,7 @@
       "rank": 14
     },
     {
-      "article_id": "CL-0025",
+      "article_id": "CL-0023",
       "category": "market",
       "title": "부산 제조업 스마트공장서 ‘제조AI’로…부산TP, 지원체계 고도화 - 브릿지경제",
       "date": "2026-09-17",
@@ -558,7 +558,7 @@
       "source_name": "브릿지경제",
       "company_tag": NaN,
       "keywords": "스마트팩토리|AI|제조",
-      "collected_at": "2026-10-08T05:07:38.902028+00:00",
+      "collected_at": "2026-10-09T05:10:30.415882+00:00",
       "has_null": false,
       "is_duplicate_seed": false,
       "data_origin": "live_crawl",
@@ -578,7 +578,7 @@
       "source_name": "전자신문",
       "company_tag": NaN,
       "keywords": "스마트팩토리|AI|제조",
-      "collected_at": "2026-10-08T05:07:38.902028+00:00",
+      "collected_at": "2026-10-09T05:10:30.415882+00:00",
       "has_null": false,
       "is_duplicate_seed": false,
       "data_origin": "live_crawl",
@@ -588,7 +588,7 @@
       "rank": 16
     },
     {
-      "article_id": "CL-0166",
+      "article_id": "CL-0172",
       "category": "market",
       "title": "티엠에스 인더스트리, 피지컬AI 제조 시스템 R&D 과제 참여 - 머니투데이 - 머니투데이",
       "date": "2026-08-31",
@@ -598,7 +598,7 @@
       "source_name": "머니투데이",
       "company_tag": NaN,
       "keywords": "제조|AX|공정|자동화",
-      "collected_at": "2026-10-08T05:07:39.836519+00:00",
+      "collected_at": "2026-10-09T05:10:31.190916+00:00",
       "has_null": false,
       "is_duplicate_seed": false,
       "data_origin": "live_crawl",
@@ -618,7 +618,7 @@
       "source_name": "AI타임스",
       "company_tag": NaN,
       "keywords": "스마트팩토리|AI|제조",
-      "collected_at": "2026-10-08T05:07:38.902028+00:00",
+      "collected_at": "2026-10-09T05:10:30.415882+00:00",
       "has_null": false,
       "is_duplicate_seed": false,
       "data_origin": "live_crawl",
@@ -628,7 +628,7 @@
       "rank": 18
     },
     {
-      "article_id": "CL-0046",
+      "article_id": "CL-0044",
       "category": "market",
       "title": "아이브이웍스, 제조AI특화 스마트공장 선정…공정 완전 자율화 추진 - 헬로티",
       "date": "2026-08-14",
@@ -638,7 +638,7 @@
       "source_name": "헬로티",
       "company_tag": NaN,
       "keywords": "스마트팩토리|AI|제조",
-      "collected_at": "2026-10-08T05:07:38.902028+00:00",
+      "collected_at": "2026-10-09T05:10:30.415882+00:00",
       "has_null": false,
       "is_duplicate_seed": false,
       "data_origin": "live_crawl",
@@ -648,17 +648,17 @@
       "rank": 19
     },
     {
-      "article_id": "CL-0098",
+      "article_id": "CL-0072",
       "category": "market",
-      "title": "대전TP 제조AI 혁신 성과 ‘A등급’… 스마트공장 실효성 입증 - 뉴데일리 충청세종",
-      "date": "2026-08-13",
-      "content": "대전TP 제조AI 혁신 성과 ‘A등급’… 스마트공장 실효성 입증 뉴데일리 충청세종",
-      "summary": "대전TP 제조AI 혁신 성과 ‘A등급’… 스마트공장 실효성 입증 뉴데일리 충청세종",
-      "source_url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBXN2xlQy1EWVdjWnNENWtNNzlybDAwZEwwRTFhVk85eGdBaUJRQWlSbU9zaXhEcVhEOEZLSk5jV19RVFdsVHdWLVdNYThweEpqZEJFcUJwU0xOUHE5Znh2THlWMl9FalFMQ3RzVnppa3VYVnZ6a1ZlT0F30gF_QVVfeXFMTXJGaG9UWWtfWVpKUjF3TlIxQ2F3S0ZnajMxQnpsQ25fWGYwc2VkdWRIUWM1d3Z2WV9BVE9Zd093Nkh0bFNfOUFGV3FYT2ZJN2R4VlRQQ2lnQTBuVWpHS0RGSWNCUWVkWjQ3XzB1YkF1anpFblNuRWItdVU0a1dlTQ?oc=5",
-      "source_name": "뉴데일리 충청세종",
+      "title": "아이브이웍스, 제조AI 특화 스마트공장 선정…GaN 에피웨이퍼 공정 완전 자율화 추진 - 스타트업엔(StartupN)",
+      "date": "2026-08-14",
+      "content": "아이브이웍스, 제조AI 특화 스마트공장 선정…GaN 에피웨이퍼 공정 완전 자율화 추진 스타트업엔(StartupN)",
+      "summary": "아이브이웍스, 제조AI 특화 스마트공장 선정…GaN 에피웨이퍼 공정 완전 자율화 추진 스타트업엔(StartupN)",
+      "source_url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBoMENNQ0xpbUk3aTZ3OFdjQVR1OFFLbmlYSFpkZmEtb3cwclhmWVlHZXNDSlFkVnlhdU5JbklDRDNBcW9jQ0E1UEZ5WWdzNkhqWUpVbHdZcllKdG04VnJValZCY0pEajg30gFsQVVfeXFMTU1YdjYydy1uVk1YX3VDYUNyUXNDcmZ2X1NNaTRmN2NnWWxXUl9JOG5nVDZGUGNtb3lxZmFNWWNKSkY3SXZ6UVdPTlBDY3RaUlJ3QXd5SjhuWUpXUlVWUU9xYTA2NGMwLUdYZjBS?oc=5",
+      "source_name": "스타트업엔(StartupN)",
       "company_tag": NaN,
       "keywords": "스마트팩토리|AI|제조",
-      "collected_at": "2026-10-08T05:07:38.902028+00:00",
+      "collected_at": "2026-10-09T05:10:30.415882+00:00",
       "has_null": false,
       "is_duplicate_seed": false,
       "data_origin": "live_crawl",
@@ -678,7 +678,7 @@
       "source_name": "산업일보",
       "company_tag": NaN,
       "keywords": "스마트팩토리|AI|제조",
-      "collected_at": "2026-10-08T05:07:38.902028+00:00",
+      "collected_at": "2026-10-09T05:10:30.415882+00:00",
       "has_null": false,
       "is_duplicate_seed": false,
       "data_origin": "live_crawl",
@@ -688,7 +688,7 @@
       "rank": 21
     },
     {
-      "article_id": "CL-0057",
+      "article_id": "CL-0060",
       "category": "market",
       "title": "AI 스마트팩토리와 사출성형 자동화 - 플라스틱코리아",
       "date": "2026-07-10",
@@ -698,7 +698,7 @@
       "source_name": "플라스틱코리아",
       "company_tag": NaN,
       "keywords": "스마트팩토리|AI|제조",
-      "collected_at": "2026-10-08T05:07:38.902028+00:00",
+      "collected_at": "2026-10-09T05:10:30.415882+00:00",
       "has_null": false,
       "is_duplicate_seed": false,
       "data_origin": "live_crawl",
@@ -708,7 +708,7 @@
       "rank": 22
     },
     {
-      "article_id": "CL-0033",
+      "article_id": "CL-0032",
       "category": "market",
       "title": "[스마트팩토리 특집-①] LG전자, 단순 자동화 넘어 ‘AI 팩토리’로 진화…피지컬 AI·로봇 생태계 정조준 - 테크월드",
       "date": "2026-07-08",
@@ -718,7 +718,7 @@
       "source_name": "테크월드",
       "company_tag": NaN,
       "keywords": "스마트팩토리|AI|제조",
-      "collected_at": "2026-10-08T05:07:38.902028+00:00",
+      "collected_at": "2026-10-09T05:10:30.415882+00:00",
       "has_null": false,
       "is_duplicate_seed": false,
       "data_origin": "live_crawl",
@@ -738,7 +738,7 @@
       "source_name": "FA저널",
       "company_tag": NaN,
       "keywords": "스마트팩토리|AI|제조",
-      "collected_at": "2026-10-08T05:07:38.902028+00:00",
+      "collected_at": "2026-10-09T05:10:30.415882+00:00",
       "has_null": false,
       "is_duplicate_seed": false,
       "data_origin": "live_crawl",
@@ -758,7 +758,7 @@
       "source_name": "Daum",
       "company_tag": NaN,
       "keywords": "스마트팩토리|AI|제조",
-      "collected_at": "2026-10-08T05:07:38.902028+00:00",
+      "collected_at": "2026-10-09T05:10:30.415882+00:00",
       "has_null": false,
       "is_duplicate_seed": false,
       "data_origin": "live_crawl",
@@ -768,7 +768,7 @@
       "rank": 25
     },
     {
-      "article_id": "CL-0159",
+      "article_id": "CL-0167",
       "category": "market",
       "title": "철강·반도체 아우르는 '열공정 특화 제조 AI 파운데이션 모델' R&D 공모 - 기계신문",
       "date": "2026-05-09",
@@ -778,7 +778,7 @@
       "source_name": "기계신문",
       "company_tag": NaN,
       "keywords": "제조|AX|공정|자동화",
-      "collected_at": "2026-10-08T05:07:39.836519+00:00",
+      "collected_at": "2026-10-09T05:10:31.190916+00:00",
       "has_null": false,
       "is_duplicate_seed": false,
       "data_origin": "live_crawl",
@@ -788,7 +788,7 @@
       "rank": 26
     },
     {
-      "article_id": "CL-0136",
+      "article_id": "CL-0143",
       "category": "market",
       "title": "이즈파크, AI 바우처 공급기업 선정… 제조기업 AX 전환 지원 - FA저널",
       "date": "2026-03-23",
@@ -798,7 +798,7 @@
       "source_name": "FA저널",
       "company_tag": NaN,
       "keywords": "제조|AX|공정|자동화",
-      "collected_at": "2026-10-08T05:07:39.836519+00:00",
+      "collected_at": "2026-10-09T05:10:31.190916+00:00",
       "has_null": false,
       "is_duplicate_seed": false,
       "data_origin": "live_crawl",
@@ -808,7 +808,7 @@
       "rank": 27
     },
     {
-      "article_id": "CL-0260",
+      "article_id": "CL-0262",
       "category": "policy",
       "title": "중기부, '스마트제조 R&D 로드맵' 수립…AI 등 핵심분야 중심 - 지디넷코리아",
       "date": "2026-03-20",
@@ -818,7 +818,7 @@
       "source_name": "지디넷코리아",
       "company_tag": NaN,
       "keywords": "중기부|스마트제조|R&D|지원",
-      "collected_at": "2026-10-08T05:07:42.130262+00:00",
+      "collected_at": "2026-10-09T05:10:33.124110+00:00",
       "has_null": false,
       "is_duplicate_seed": false,
       "data_origin": "live_crawl",
@@ -828,7 +828,7 @@
       "rank": 28
     },
     {
-      "article_id": "CL-0264",
+      "article_id": "CL-0266",
       "category": "policy",
       "title": "“AI 포함 49개 기술 찍었다”…중기부, 스마트제조 R&D ‘로드맵’ 공개 - 매일일보",
       "date": "2026-03-18",
@@ -838,7 +838,7 @@
       "source_name": "매일일보",
       "company_tag": NaN,
       "keywords": "중기부|스마트제조|R&D|지원",
-      "collected_at": "2026-10-08T05:07:42.130262+00:00",
+      "collected_at": "2026-10-09T05:10:33.124110+00:00",
       "has_null": false,
       "is_duplicate_seed": false,
       "data_origin": "live_crawl",
@@ -848,7 +848,7 @@
       "rank": 29
     },
     {
-      "article_id": "CL-0212",
+      "article_id": "CL-0210",
       "category": "funding",
       "title": "이즈파크, ‘2026 제조AI특화 스마트공장 구축사업’ 대비 제조 AI 적용 전략 제시 - 인더스트리뉴스",
       "date": "2026-02-10",
@@ -858,7 +858,7 @@
       "source_name": "인더스트리뉴스",
       "company_tag": NaN,
       "keywords": "AI|바우처|스마트공장|지원사업",
-      "collected_at": "2026-10-08T05:07:41.238380+00:00",
+      "collected_at": "2026-10-09T05:10:32.443064+00:00",
       "has_null": false,
       "is_duplicate_seed": false,
       "data_origin": "live_crawl",
